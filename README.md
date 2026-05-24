@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 3rd-year B.Tech student passionate about building tech that matters<br>🤖 Exploring Artificial Intelligence, Machine Learning & Data Science<br><br>🧠 Interested in deep learning, full-stack development & emerging tech<br>🚀 Always learning, always building<br>💬 Let’s connect and create something impactful.
+🎓 3rd-year B.Tech student passionate about building tech that matters<br>🤖 Exploring Artificial Intelligence, Machine Learning & Data Science<br>🧠 Interested in deep learning, full-stack development & emerging tech<br>🚀 Always learning, always building<br>💬 Let’s connect and create something impactful.
 
 
 # 💻 Tech Stack:
